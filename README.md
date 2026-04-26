@@ -1,6 +1,53 @@
-# 💫 About Me:
-👨‍💻 I'm a B.Tech Computer Science student passionate about building real-world tech solutions and continuously improving my skills.<br><br>🔭 I'm currently working on:<br>- Smart Inventory Management System<br>- HTML, CSS projects for strong frontend foundation<br>- Data Structures & Algorithms (DSA) using Python<br><br>🤝 I'm looking to collaborate on:<br>- Web development projects<br>- Beginner-friendly open source contributions<br>- Innovative student-level tech projects<br><br>🆘 I'm looking for help with:<br>- Advanced DSA problem solving<br>- Backend development & APIs<br>- System design basics<br><br>🌱 I'm currently learning:<br>- Data Structures & Algorithms (DSA)<br>- Web Development (HTML, CSS, upcoming JavaScript)<br>- SQL & Database Management<br>- Basics of AI tools in development<br><br>💬 Ask me about:<br>- APIs, Frontend vs Backend concepts<br>- Beginner coding guidance<br>- How to start with DSA and projects<br><br>⚡ Fun fact:<br><br>- I like combining discipline (fitness + boxing) with tech growth
+🚀 Software Developer | Frontend & Full-Stack Enthusiast  
 
+👨‍💻 I’m a Computer Science undergraduate focused on building scalable, user-centric web applications and solving complex problems using Data Structures & Algorithms.
+
+🔭 Currently working on:
+- Enhancing full-stack projects with better performance and scalability
+- Advanced DSA problem solving (1000+ problems solved across platforms)
+- Building production-ready applications using modern JavaScript ecosystems
+
+💡 Technical Expertise:
+- Languages: JavaScript, TypeScript, Python, SQL, C/C++
+- Frontend: React.js, HTML5, CSS3, Tailwind CSS, Responsive UI/UX
+- Backend & Data: Firebase (Firestore, Authentication), REST APIs, MySQL
+- Tools & Platforms: Git, GitHub, Netlify, Vercel, VS Code, Linux
+- Core Concepts: Data Structures & Algorithms, OOP, SDLC, Agile
+
+📌 Key Projects:
+
+🔹 Smart Inventory Management System  
+- Built a real-time inventory system with Firebase Authentication (multi-role access)  
+- Implemented full CRUD operations with search & filtering (name, category, stock)  
+- Designed dashboard analytics (total, low-stock, out-of-stock)  
+- Deployed with mobile-first responsive UI  
+
+🔹 Productivity Hub (Task Manager + Focus System)  
+- Developed a productivity app with Pomodoro timer and gamified focus system  
+- Implemented task CRUD with persistent state (localStorage)  
+- Integrated Chart.js for analytics dashboard  
+- Optimized performance using event delegation & reduced DOM re-renders  
+
+🌱 Currently learning:
+- Advanced Backend Development & System Design  
+- API architecture & scalable application design  
+- Cloud technologies (Azure & deployment optimization)
+
+🏆 Achievements:
+- Solved 1000+ DSA problems (LeetCode, GFG, Codeforces, CodeChef)
+- Best LeetCode Contest Rank: 2016  
+- Built & deployed multiple full-stack projects (Netlify, Vercel)  
+- Achieved Lighthouse performance & SEO scores consistently above 80  
+
+
+💬 Ask me about:
+- React & frontend architecture  
+- Firebase & real-time applications  
+- DSA preparation strategies  
+- Building and deploying real-world projects  
+
+⚡ Fun fact:
+I combine coding discipline with my boxing and powerlifting
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deva.panchal_) 
