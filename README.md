@@ -1,6 +1,6 @@
-🚀 Software Developer | Frontend & Full-Stack Enthusiast  
+🚀 Software Engineer | Data Engineering | Cloud & Data Solutions
 
-👨‍💻 I’m a Computer Science undergraduate focused on building scalable, user-centric web applications and solving complex problems using Data Structures & Algorithms.
+👨‍💻Computer Science undergraduate focused on building scalable cloud-based applications and modern data engineering solutions using Microsoft Azure, SQL, PySpark, and full-stack technologies.
 
 🔭 Currently working on:
 - Enhancing full-stack projects with better performance and scalability
@@ -8,13 +8,39 @@
 - Building production-ready applications using modern JavaScript ecosystems
 
 💡 Technical Expertise:
-- Languages: JavaScript, TypeScript, Python, SQL, C/C++
-- Frontend: React.js, HTML5, CSS3, Tailwind CSS, Responsive UI/UX
-- Backend & Data: Firebase (Firestore, Authentication), REST APIs, MySQL
-- Tools & Platforms: Git, GitHub, Netlify, Vercel, VS Code, Linux
-- Core Concepts: Data Structures & Algorithms, OOP, SDLC, Agile
+- Microsoft Azure
+- Azure Data Factory
+- Azure Databricks
+- Azure SQL Database
+- Azure Data Lake Storage Gen2
+- PySpark
+- ETL Pipelines
+- Power BI
 
+### Programming & Development
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- React.js
+- Node.js
+- REST APIs
+- Firebase
+
+### Tools & Platforms
+- Git & GitHub
+- Linux
+- VS Code
+- Postman
+- Netlify
+- Vercel
 📌 Key Projects:
+🔹Spotify Azure End-to-End Data Engineering Pipeline
+Developed an end-to-end Azure Data Engineering pipeline using Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2, and Azure SQL Database for scalable ingestion, transformation, and analytics processing of Spotify datasets using PySpark and SQL. Implemented ETL workflows, incremental data loading, and Medallion Architecture (Bronze, Silver, Gold layers) for cloud-based data processing and analytics.
+
+ 🔹AdventureWorks Azure Cloud & Data Pipeline
+Built a cloud-based Azure data pipeline solution using Azure Data Factory, Azure Databricks, Azure Data Lake Storage, and Azure SQL Database to process and transform AdventureWorks business datasets. Designed scalable ETL workflows, automated data ingestion pipelines, and analytics-ready datasets using PySpark and SQL following modern cloud data engineering practices.
+
 
 🔹 Smart Inventory Management System  
 - Built a real-time inventory system with Firebase Authentication (multi-role access)  
