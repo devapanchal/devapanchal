@@ -34,7 +34,10 @@
 - Postman
 - Netlify
 - Vercel
+
+  
 📌 Key Projects:
+
 🔹Spotify Azure End-to-End Data Engineering Pipeline
 Developed an end-to-end Azure Data Engineering pipeline using Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2, and Azure SQL Database for scalable ingestion, transformation, and analytics processing of Spotify datasets using PySpark and SQL. Implemented ETL workflows, incremental data loading, and Medallion Architecture (Bronze, Silver, Gold layers) for cloud-based data processing and analytics.
 
